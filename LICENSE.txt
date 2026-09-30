@@ -1,0 +1,1 @@
+Front-end source prepared for the Discord Resellers project. Replace demo content and connect your own production services before launch.
